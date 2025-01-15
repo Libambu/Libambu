@@ -2,13 +2,16 @@
 
 ## 软件工程师-新手小龙
 
-前后端小白，正在learning
+不想学习o(╥﹏╥)o
 
-### **社交主页：**
+<div id="img" align=center>
 
-<img align="right" alt="GIF" src="https://github.com/likaia/blob/main/code.gif" width="430" height="100%" />
+![](https://img.shields.io/badge/讨厌-学习-yellow)
+![](https://img.shields.io/badge/性格-开朗-red)
+![](https://img.shields.io/badge/爱好-火影忍者-red)
 
+</div>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Libambu&show_icons=true&theme=tokyonight" /> </div>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Libambu" /> </div>
-<div align="center"> <a href="https://blog.ytadx.cn/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=小龙同学&center=true&size=27"> </a> </div>
+
 
