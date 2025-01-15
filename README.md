@@ -7,7 +7,9 @@
 <div id="img" align=center>
 
 ![](https://img.shields.io/badge/讨厌-学习-yellow)
+
 ![](https://img.shields.io/badge/性格-开朗-red)
+
 ![](https://img.shields.io/badge/爱好-火影忍者-red)
 
 </div>
