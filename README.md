@@ -12,6 +12,7 @@
 
 不想学习o(╥﹏╥)o
 
+
 <div id="img" align=center>
 
 ![](https://img.shields.io/badge/讨厌-学习-yellow)
