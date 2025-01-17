@@ -15,6 +15,7 @@
 ### 不想学习
 ### o(╥﹏╥)o
 
+
 <div id="img" align=center>
 
 ![](https://img.shields.io/badge/讨厌-学习-yellow)
@@ -25,23 +26,12 @@
 
 </div>
 
-<p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Libambu&show_icons=true&hide_border=true&line_height=24&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=Libambu&show_icons=true&hide_border=true&line_height=24" />
-  </picture>
-  
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Libambu&layout=compact&hide_border=true&langs_count=8&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Libambu&layout=compact&hide_border=true&langs_count=8" />
-  </picture>
-</p>
+<div align="center">
+  <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Libambu&layout=compact" height=145/></span>
+  <span><img src="https://github-readme-stats.vercel.app/api?username=Libambu&count_private=true&show_icons=true" height=145/></span>
+</div>
+
+
 
 <p align="center">
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Libambu&theme=github-compact&hide_border=true&area=true" />
@@ -55,5 +45,9 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=78&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=46&animation=twinkling" />
 </p>
+
+
+
+
 
 
