@@ -28,14 +28,14 @@
 
 <div align="center">
   <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Libambu&layout=compact&t=123456" height=145/></span>
-  <span><img src="https://github-readme-stats.vercel.app/api?username=Libambu&count_private=true&show_icons=true&t=1" height=145/></span>
+  <span><img src="https://github-readme-stats.vercel.app/api?username=Libambu&count_private=true&show_icons=true&t=123456" height=145/></span>
 </div>
 
 
 
 
 <p align="center">
-  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Libambu&theme=github-compact&hide_border=true&area=true&t=1" />
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Libambu&theme=github-compact&hide_border=true&area=true&t=123456" />
 </p>
 
 <p align="center">
