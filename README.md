@@ -28,8 +28,8 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Libambu" alt="Top Langs" />
-  <img  height="245" src="https://github-immortality.vercel.app/api?username=Libambu" alt="IceEnd's GitHub stats" />
+  <img  height="245" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Libambu" alt="Top Langs" />
+  <img  height="245"  src="https://github-immortality.vercel.app/api?username=Libambu" alt="IceEnd's GitHub stats" />
 </p>
 
 <p align="center">
