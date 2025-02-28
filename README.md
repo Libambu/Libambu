@@ -27,6 +27,15 @@
 </div>
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Libambu" alt="Top Langs" />
+  <img  height="245" src="https://github-immortality.vercel.app/api?username=Libambu" alt="IceEnd's GitHub stats" />
+</p>
+
+<p align="center">
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Libambu&theme=github-compact&hide_border=true&area=true" />
+</p>
+
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=78&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=46&animation=twinkling" />
